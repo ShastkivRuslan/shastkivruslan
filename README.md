@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on a team project for a public organization, developing a website with features like volunteer applications, donation tracking, and payment integration using LiqPay, all while improving my backend development skills.
 
-🌱 I’m currently learning advanced Spring Boot, Telegram bot integration, and expanding my expertise with technologies like Docker, AWS, MySQL, and PostgreSQL.
+🌱 I’m currently learning advanced Java Multithreading, Kotlin and expanding my expertise with technologies like Docker, AWS, Redis, Kafka.
 
 👯 I’m looking to collaborate on innovative backend projects that involve API development, payment systems integration, or business logic implementation.
 
