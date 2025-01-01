@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning Java Multithreading, Kotlin and expanding my expertise with technologies like Docker, AWS, Redis, Kafka.
 
-👯 I’m looking to collaborate on innovative backend projects that involve API development, payment systems integration, or business logic implementation.
+👯 I’m looking to collaborate on innovative backend projects that involve API development.
 
 🤔 I’m looking for help with perfecting my portfolio projects and gaining insights into building scalable backend architectures for real-world applications.
 
