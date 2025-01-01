@@ -1,4 +1,8 @@
 ## Hi there 👋
+🔭 I’m currently working on a team project for a public organization, developing a website with features like volunteer applications, donation tracking, and payment integration using LiqPay, all while improving my backend development skills.
+🌱 I’m currently learning advanced Spring Boot, Telegram bot integration, and expanding my expertise with technologies like Docker, AWS, MySQL, and PostgreSQL.
+👯 I’m looking to collaborate on innovative backend projects that involve API development, payment systems integration, or business logic implementation.
+🤔 I’m looking for help with perfecting my portfolio projects and gaining insights into building scalable backend architectures for real-world applications.
 
 <!--
 **ShastkivRuslan/shastkivruslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
