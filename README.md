@@ -2,6 +2,8 @@
 
 🚀 **Backend & Android Developer | Java | Kotlin | Spring Boot | Hibernate | SQL | JDBC | PostgreSQL | MySQL | Docker | Docker Compose | AWS**  
 
+🔹 6+ months of hands-on Java backend development
+
 🔹 **Currently working on:**  
 - **Backend** for a charity organization (volunteer applications, donations, LiqPay integration).  
 - **Android app** for learning English (word memorization, tests, progress tracking).  
