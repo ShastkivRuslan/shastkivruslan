@@ -1,4 +1,4 @@
-### Hi there 👋  
+# Hi there 👋  
 
 🚀 **Backend & Android Developer | Java | Kotlin | Spring Boot | Hibernate | SQL | JDBC | PostgreSQL | MySQL | Docker | Docker Compose | AWS**  
 
