@@ -12,8 +12,6 @@
 - Distributed systems and multithreading.  
 
 🐍 **Contribution Snake** 
-
-## 🐍 Contribution Snake
 ![snake gif](https://github.com/ShastkivRuslan/ShastkivRuslan/blob/output/github-snake-dark.svg)
 
 
