@@ -1,12 +1,17 @@
-## Hi there 👋
+### Hi there 👋  
 
-🔭 I’m currently working on a team project for a public organization, developing a website with features like volunteer applications, donation tracking, and payment integration using LiqPay, all while improving my backend development skills.
+🚀 **Backend Developer | Java | Spring Boot | Kotlin | Hibernate | SQL | JDBC | PostgreSQL | MySQL | Docker | Docker Compose | AWS**  
 
-🌱 I’m currently learning Java Multithreading, Kotlin and expanding my expertise with technologies like Docker, AWS, Redis, Kafka.
+🔹 **Currently working on:**  
+- Backend for a charity organization (volunteer applications, donations, LiqPay integration).  
+- Android app for learning English.  
 
-👯 I’m looking to collaborate on innovative backend projects that involve API development.
+📌 **Interests:**  
+- Scalable backend architectures.  
+- API development and integrations.  
+- Distributed systems and multithreading.  
 
-🤔 I’m looking for help with perfecting my portfolio projects and gaining insights into building scalable backend architectures for real-world applications.
+🐍 **Contribution Snake** 
 
 ## 🐍 Contribution Snake
 ![snake gif](https://github.com/ShastkivRuslan/ShastkivRuslan/blob/output/github-snake-dark.svg)
