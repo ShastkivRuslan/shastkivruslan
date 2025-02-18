@@ -8,6 +8,10 @@
 
 🤔 I’m looking for help with perfecting my portfolio projects and gaining insights into building scalable backend architectures for real-world applications.
 
+## 🐍 Contribution Snake
+![GitHub Snake Light](https://raw.githubusercontent.com/ShatstkivRuslan/ShatstkivRuslan/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/ShatstkivRuslan/ShatstkivRuslan/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
 
 <!--
 **ShastkivRuslan/shastkivruslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
