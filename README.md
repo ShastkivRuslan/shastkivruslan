@@ -5,6 +5,7 @@ Backend Developer with Android experience
 I build web services with Java/Kotlin and Spring Boot, and craft Android apps. Currently volunteering as a backend developer for a charity project and developing an English learning app.
 
 6+ months of hands-on Java backend development
+
 3+ months of hand-on Android development
 
 Tech stack:
