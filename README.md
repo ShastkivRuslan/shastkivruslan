@@ -1,17 +1,22 @@
 # Hi there 👋  
 
-🚀 **Backend & Android Developer | Java | Kotlin | Spring Boot | Hibernate | SQL | JDBC | PostgreSQL | MySQL | Docker | Docker Compose | AWS**  
+Backend Developer with Android experience
 
-🔹 6+ months of hands-on Java backend development
+I build web services with Java/Kotlin and Spring Boot, and craft Android apps. Currently volunteering as a backend developer for a charity project and developing an English learning app.
 
-🔹 **Currently working on:**  
-- **Backend** for a charity organization (volunteer applications, donations, LiqPay integration).  
-- **Android app** for learning English (word memorization, tests, progress tracking).  
+6+ months of hands-on Java backend development
+3+ months of hand-on Android development
 
-📌 **Interests:**  
-- Scalable backend architectures.  
-- API development and integrations.  
-- Android development with Jetpack Compose.  
+Tech stack:
+- Java, Kotlin
+- Spring Boot, Hibernate
+- PostgreSQL, MySQL
+- JDBC, REST APIs
+- Docker, Docker Compose
+- AWS
+- Android SDK, Jetpack Compose
+
+Always excited to learn about scalable architectures and clean API design. Let's connect!
 
 🐍 **Contribution Snake**  
 ![snake gif](https://github.com/ShastkivRuslan/ShastkivRuslan/blob/output/github-snake-dark.svg)
