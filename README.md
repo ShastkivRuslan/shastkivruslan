@@ -17,8 +17,6 @@ Tech stack:
 - AWS
 - Android SDK, Jetpack Compose
 
-Always excited to learn about scalable architectures and clean API design. Let's connect!
-
 🐍 **Contribution Snake**  
 ![snake gif](https://github.com/ShastkivRuslan/ShastkivRuslan/blob/output/github-snake-dark.svg)
 
