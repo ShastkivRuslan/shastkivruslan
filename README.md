@@ -6,7 +6,7 @@ I build web services with Java/Kotlin and Spring Boot, and craft Android apps. C
 
 6+ months of hands-on Java backend development
 
-3+ months of hand-on Android development
+3+ months of hands-on Android development
 
 Tech stack:
 - Java, Kotlin
